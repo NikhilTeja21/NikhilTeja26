@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NikhilTeja26
+- 👋 Hi, I’m @NikhilTeja21
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine learning and AI
