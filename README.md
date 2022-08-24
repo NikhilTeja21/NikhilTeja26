@@ -1,8 +1,8 @@
-- 👋 Hi, I’m NikhilTeja
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine learning and AI
-- 📫 How to reach me @nunenikhilteja@gmail.com
+- Hi, I’m NikhilTeja
+- I’m Spellbinded in Programming
+- I’m Enlightening in Machine Learning
+- I’m looking to collaborate on Machine learning and AI
+- How to reach me @nunenikhilteja@gmail.com
 
 <!---
 NikhilTeja26/NikhilTeja26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
