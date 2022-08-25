@@ -15,7 +15,6 @@ from PIL import Image
 # "pip install __Module name__" for all the modules not for streamlit
 #For streamlit lottie we have other commands, I'll soon provide all the commands to install them.
 
-
 page_name = s.set_page_config(page_title="My Introduction",page_icon=":star2:",layout="wide",menu_items={}) #--Main settings for website name,layout,Icon,Menu.. etc.
 s.title("Web Development")
 s.header("Introduction")
