@@ -1,7 +1,7 @@
 - Hi, I’m NikhilTeja
 - I’m Spellbinded in Programming
 - I’m Enlightening in Machine Learning
-- I’m looking to collaborate on Machine learning and AI
+- I’m looking to collaborate on Machine learning and Artificial Intelligence
 - How to reach me @nunenikhilteja@gmail.com
 
 <!---
