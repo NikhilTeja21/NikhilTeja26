@@ -1,7 +1,5 @@
 {
-    "python.testing.pytestArgs": [
-        "Styles"
-    ],
+    "python.testing.pytestArgs": ["Styles"],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
 }
