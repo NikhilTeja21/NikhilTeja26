@@ -1,3 +1,4 @@
+#Packages that need to install firstly
 from cProfile import label
 from datetime import date
 from turtle import home
@@ -8,7 +9,6 @@ import streamlit as s
 from streamlit_lottie import st_lottie
 import requests
 from PIL import Image
-
 #Above modules should be imported for all the features to make your website adore.
 #Import them in your command prompt from your python idle 
 #Type "python install pip", then you can install all other modules using pip.
