@@ -10,7 +10,7 @@ from streamlit_lottie import st_lottie
 import requests
 from PIL import Image
 #Above modules should be imported for all the features to make your website adore.
-#Import them in your command prompt from your python idle 
+#Import them in your command prompt from your python idle  
 #Type "python install pip", then you can install all other modules using pip.
 # "pip install __Module name__" for all the modules not for streamlit
 #For streamlit lottie we have other commands, I'll soon provide all the commands to install them.
