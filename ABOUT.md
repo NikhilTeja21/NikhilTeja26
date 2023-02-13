@@ -9,3 +9,18 @@
 - Requests    : Feedback at the end of website.
 - Numpy       : Basic data handling and plotting graphs if needed for presentation of data.
 - Pandas      : To access the spreadsheets and handling of different format of data.
+
+### How to install python
+- Step 1 — Downloading the Python Installer. (https://www.python.org/downloads/windows/)
+- Step 2 — Running the Executable Installer. (Run as administrator)
+- Step 3 — Adding Python to the Environment Variables.
+- Step 4 — Verify the Python Installation in the command prompt. (python --version).
+
+### How to install packages
+- Step 1: Download PIP get-pip.py (https://bootstrap.pypa.io/get-pip.py)
+- Launch a command prompt if it isn't already open.
+- Run the following command to download the get-pip.py file:
+      curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+- Type this command -- python -m pip install --upgrade pip
+- Then install every package using this command 
+      pip install *package_name*
