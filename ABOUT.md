@@ -24,3 +24,11 @@
 - Type this command -- python -m pip install --upgrade pip
 - Then install every package using this command 
       pip install *package_name*
+
+### Using of built-in's
+- Using containers we can create seperate section for each.
+- We can also add document upload section and specify the types(eg .pdf .pptx .xlsx .docx .csv etc)
+- We can add lottie animation files by dividing the container into different number of sections.
+- By using (CSS) file we can change the background color and font style and size.
+- By using (toml) we can create a feedback at the end of the website without showing any administer information.
+- We can add toolbar and authentication.
